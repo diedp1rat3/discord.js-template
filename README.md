@@ -4,6 +4,6 @@
 
 * Install: *
 
-` npm install `
+``` npm install `
 ` npm i discord.js `
-` node . `
+` node . ```
