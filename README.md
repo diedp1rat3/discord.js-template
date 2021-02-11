@@ -2,7 +2,7 @@
 
 * There is a template of Discord.JS bot. *
 
-* Install: *
+# Install
 npm install
 npm i discord.js
 node .
