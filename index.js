@@ -4,4 +4,8 @@ const bot = new Discord.Client();
 
 // your code here
 
+client.on('ready', () => {
+  console.log('Logged in: ${client.user.tag}');
+});
+
 bot.login(config.token);
